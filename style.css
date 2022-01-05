@@ -163,6 +163,10 @@ h2 {
   color-scheme: dark;
 }
 
+.bsc {
+  overflow-wrap: break-word;
+}
+
 .audioplayer {
   height:12px;
   width:300px;
